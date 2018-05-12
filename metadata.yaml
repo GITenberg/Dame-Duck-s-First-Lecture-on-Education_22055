@@ -1,0 +1,27 @@
+_repo: Dame-Duck-s-First-Lecture-on-Education_22055
+_version: 0.1.0
+alternative_title: Dame Duck's Lecture
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ducks -- Juvenile poetry'
+- !lcc 'PZ'
+title: Dame Duck's First Lecture on Education
+url: http://www.gutenberg.org/ebooks/22055
